@@ -38,8 +38,6 @@ A passionate Android Developer from India 🚀
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Datta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dattabodkhe&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dattabodkhe&layout=compact&theme=tokyonight)
