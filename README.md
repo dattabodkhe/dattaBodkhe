@@ -35,12 +35,10 @@ A passionate Android Developer from India 🚀
 - [WhatsApp Clone] – Full Android Messaging App
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
-
-![Datta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dattabodkhe&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dattabodkhe&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dattabodkhe&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dattabodkhe&show_icons=true&theme=tokyonight" alt="Datta's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattabodkhe&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattabodkhe&theme=tokyonight" alt="GitHub Streak" />
+</p>
