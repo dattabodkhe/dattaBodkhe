@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,git,github,vscode,sqlite" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,vscode,sqlite" />
 </p>
 
 ---
