@@ -114,6 +114,12 @@
 <div align="center">
 
 
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+
+
 **⚡ SYSTEM STATUS: ONLINE AND CODING NON-STOP ⚡**  
 **🚀 BUILDING PROJECTS | LEARNING EVERY DAY 🚀**
 
