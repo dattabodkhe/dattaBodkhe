@@ -114,16 +114,17 @@
 <div align="center">
 
 
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
 
 
 **⚡ SYSTEM STATUS: ONLINE AND CODING NON-STOP ⚡**  
 **🚀 BUILDING PROJECTS | LEARNING EVERY DAY 🚀**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=3000&pause=1000&color=4A4A8C&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+to+boost+my+profile!+⭐;💡+Open+to+collaborate+on+Android+projects!+💡;🧠+Always+learning+and+innovating!+🧠)](https://github.com/dattabodkhe)
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+
 
 </div>
 
