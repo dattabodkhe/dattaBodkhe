@@ -110,8 +110,9 @@
 ![Status](https://img.shields.io/badge/Status-COMPLETED-brightgreen?style=for-the-badge&logo=android)
 
 **Real-Time Chat App using Kotlin + Jetpack Compose + Firebase**
+</div> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dattabodkhe&show_icons=true&theme=tokyonight" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattabodkhe&theme=tokyonight" height="160px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattabodkhe&layout=compact&theme=tokyonight" /> </p>
 
-```yaml
+
 features:
   - Firebase Authentication (Login/Signup)
   - Real-time Messaging (Cloud Firestore)
@@ -120,3 +121,12 @@ features:
   - Clean Material Design UI
 tech_stack:
   - Kotlin, Jetpack Compose, Firebase
+features:
+  - Add/Edit/Delete Transactions
+  - Monthly Report & Graphs
+  - Room Database Integration
+  - Compose UI with Dark/Light Theme
+tech_stack:
+  - Kotlin, Jetpack Compose, Room, ViewModel
+```yaml
+
