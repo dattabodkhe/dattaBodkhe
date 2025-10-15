@@ -109,6 +109,8 @@
 
 **Real-Time Chat App using Kotlin + Jetpack Compose + Firebase**
 
+![WhatsApp Clone Demo](https://media.giphy.com/media/your-gif-link-here/giphy.gif) <!-- Replace with actual GIF of your app -->
+
 ```yaml
 features:
   - Firebase Authentication (Login/Signup)
