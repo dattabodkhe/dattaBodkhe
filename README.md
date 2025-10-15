@@ -1,65 +1,120 @@
-<h1 align="center">Hi 👋, I'm Datta Bodkhe</h1>
-<h3 align="center">🚀 Aspiring Android Developer from Maharashtra, India 🇮🇳</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12&height=200&section=header&text=DATTA%20BODKHE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
+
+## 🚀 Android Developer | 💻 Kotlin Enthusiast | 🔥 Jetpack Compose & Firebase Explorer
+
+![Profile Views](https://komarev.com/ghpvc/?username=dattabodkhe&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+
+</div>
 
 ---
+
+<div align="center">
+
+## 👤 **PROFESSIONAL PROFILE**
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 👨‍💻 **Identity**
+![Identity](https://img.shields.io/badge/Role-Android%20Developer-0A84FF?style=for-the-badge&logo=android&logoColor=white)
+
+**Name:** Datta Bodkhe  
+**Title:** Aspiring Android Developer  
+**Education:** B.C.S (Computer Science)  
+**Location:** Maharashtra, India 🇮🇳  
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ **Expertise**
+![Expertise](https://img.shields.io/badge/Expertise-Intermediate-success?style=for-the-badge&logo=target&logoColor=white)
+
+**Primary:** Kotlin, Jetpack Compose  
+**Secondary:** Firebase, Room DB  
+**Learning:** Hilt, Retrofit, Clean Architecture  
+
+</td>
+<td align="center" width="33%">
+
+### 🟢 **Status**
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=power&logoColor=white)
+
+**Mode:** Building Projects 💪  
+**Availability:** Open to Internships  
+**Focus:** Job-ready Android Skills  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ **TECHNOLOGY STACK**
+
+</div>
 
 <p align="center">
-  <a href="https://github.com/dattabodkhe">
-    <img src="https://komarev.com/ghpvc/?username=dattabodkhe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/dattabodkhe?tab=followers">
-    <img src="https://img.shields.io/github/followers/dattabodkhe?label=Followers&style=social" alt="followers" />
-  </a>
-  <a href="https://www.instagram.com/datta_patil__bodkhe?igsh=dXkyNGNpNXF5MmE2">
-    <img src="https://img.shields.io/badge/Instagram-%40datta__patil__bodkhe-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github,vscode" />
 </p>
 
----
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
-### 🧑‍💻 About Me
-- 🔭 Currently Working On **WhatsApp Clone App (Kotlin + Compose + Firebase)**
-- 🌱 Currently Learning **Advanced Jetpack Compose & Firebase Integration**
-- 💬 Ask Me About **Android Development, Kotlin, Firebase, Git & GitHub**
-- 📫 Reach Me At **[bodkhedatta77@gmail.com](mailto:bodkhedatta77@gmail.com)**
+### 💻 **Core Skills**
+| Category | Tools |
+|:---|:---|
+| Languages | Kotlin, Java |
+| UI Toolkit | Jetpack Compose |
+| Database | Firebase, Room |
+| Architecture | MVVM, Clean |
+| Networking | Retrofit, Coroutines |
 
----
+</td>
+<td align="center" width="50%">
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github,vscode,sqlite" />
-</p>
+### 🧠 **Soft & Dev Skills**
+| Category | Skills |
+|:---|:---|
+| Soft Skills | Teamwork, Problem Solving |
+| Tools | Git, GitHub, VS Code |
+| Design | Material 3, Responsive UI |
+| Other | API Integration, Debugging |
 
----
-
-### 📱 Featured Project
-📂 **[WhatsApp Clone](https://github.com/dattabodkhe/WhatsappClone)**  
-💬 A full Android messaging app built using **Kotlin**, **Jetpack Compose**, and **Firebase Realtime Database** for real-time chat.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dattabodkhe&show_icons=true&theme=tokyonight" alt="Datta's GitHub stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattabodkhe&theme=tokyonight" alt="GitHub Streak" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattabodkhe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dattabodkhe&theme=onedark&no-bg=true&no-frame=true&margin-w=8" />
-</p>
+<div align="center">
 
----
+## 📱 **PROJECT SHOWCASE**
 
-### ⚡ Fun Fact
-> “I’m not just learning to code, I’m learning to build the future!” 💡
+</div>
 
----
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
-<p align="center">⭐️ From <a href="https://github.com/dattabodkhe">Datta Bodkhe</a></p>
+### 💬 **[WhatsApp Clone](https://github.com/dattabodkhe/WhatsappClone)**
+![Status](https://img.shields.io/badge/Status-COMPLETED-brightgreen?style=for-the-badge&logo=android)
+
+**Real-Time Chat App using Kotlin + Jetpack Compose + Firebase**
+
+```yaml
+features:
+  - Firebase Authentication (Login/Signup)
+  - Real-time Messaging (Cloud Firestore)
+  - Profile & User Management
+  - MVVM Architecture
+  - Clean Material Design UI
+tech_stack:
+  - Kotlin, Jetpack Compose, Firebase
