@@ -105,7 +105,7 @@
 <td width="50%" align="center">
 
 ### 💬 **[WhatsApp Clone](https://github.com/dattabodkhe/WhatsappClone)**
-![Status](https://img.shields.io/badge/Status-COMPLETED-brightgreen?style=for-the-badge&logo=android)
+![Status](https://www.webwise.ie/wp-content/uploads/2015/01/WhatsApp-header-1024x500.jpg)
 
 **Real-Time Chat App using Kotlin + Jetpack Compose + Firebase**
 
