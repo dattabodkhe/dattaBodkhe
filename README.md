@@ -108,8 +108,6 @@
 ![Status](https://www.webwise.ie/wp-content/uploads/2015/01/WhatsApp-header-1024x500.jpg)
 
 **Real-Time Chat App using Kotlin + Jetpack Compose + Firebase**
-
-![WhatsApp Clone Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhvYzA0eDZjb24zOWRjZHlueXc4MTI1ejlwcDB1YTZjajEyYjkyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pPbcqcLelFmj6/giphy.gif) <!-- Replace with actual GIF of your app -->
 <!-- Performance Dashboard -->
 <div align="center">
 
