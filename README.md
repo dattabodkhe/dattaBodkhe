@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github" />
 </p>
 
 <table width="100%">
@@ -84,7 +84,7 @@
 | Category | Skills |
 |:---|:---|
 | Soft Skills | Teamwork, Problem Solving |
-| Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub,Android studio|
 | Design | Material 3, Responsive UI |
 | Other | API Integration, Debugging |
 
