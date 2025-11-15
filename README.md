@@ -1,77 +1,68 @@
+<!-- 🚀 3D BUTTONS + ANIMATED SECTIONS PREMIUM README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12&height=200&section=header&text=DATTA%20BODKHE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=DATTA%20BODKHE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=70"/>
 
-## 🚀 Android Developer | 💻 Kotlin Enthusiast | 🔥 Jetpack Compose & Firebase Explorer
+### <img src="https://cdn-icons-png.flaticon.com/512/10096/10096988.png" width="30"> **Android Developer | Kotlin Expert | Compose UI Builder**
 
-![Profile Views](https://komarev.com/ghpvc/?username=dattabodkhe&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=dattabodkhe&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 </div>
 
 ---
 
+## 🎯 PROFESSIONAL PROFILE
+
 <div align="center">
-
-## 👤 **PROFESSIONAL PROFILE**
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 👨‍💻 **Identity**
-![Identity](https://img.shields.io/badge/Role-Android%20Developer-0A84FF?style=for-the-badge&logo=android&logoColor=white)
-
-**Name:** Datta Bodkhe
-**Title:** Aspiring Android Developer
-**Education:** B.C.S (Computer Science)
-**Location:** Maharashtra, India 🇮🇳
+**Name:** Datta Bodkhe  
+**Role:** Aspiring Android Developer  
+**Education:** B.C.S  
+**Location:** Maharashtra 🇮🇳
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### ⚙️ **Expertise**
-![Expertise](https://img.shields.io/badge/Expertise-Intermediate-success?style=for-the-badge&logo=target&logoColor=white)
-
-**Primary:** Kotlin, Jetpack Compose
-**Secondary:** Firebase, Room DB
-**Learning:** Hilt, Retrofit, Clean Architecture
+Kotlin · Jetpack Compose · Firebase  
+Hilt · Room · Clean Architecture
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 🟢 **Status**
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=power&logoColor=white)
-
-**Mode:** Building Projects 💪
-**Availability:** Open to Internships
+**Mode:** Building Projects 🔥  
+**Available:** Internships  
 **Focus:** Job-ready Android Skills
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
+## 🚀 TECHNOLOGY STACK
+
 <div align="center">
-
-## ⚡ **TECHNOLOGY STACK**
-
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github"/>
 </div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github" />
-</p>
+---
 
-<table width="100%">
+## 🔧 CORE SKILLS & TOOLS
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
 ### 💻 **Core Skills**
 | Category | Tools |
-|:---|:---|
+|---------|--------|
 | Languages | Kotlin, Java |
 | UI Toolkit | Jetpack Compose |
 | Database | Firebase, Room |
@@ -79,13 +70,13 @@
 | Networking | Retrofit, Coroutines |
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
 ### 🧠 **Soft & Dev Skills**
 | Category | Skills |
-|:---|:---|
+|---------|--------|
 | Soft Skills | Teamwork, Problem Solving |
-| Tools | Git, GitHub,Android studio|
+| Tools | Git, GitHub, Android Studio |
 | Design | Material 3, Responsive UI |
 | Other | API Integration, Debugging |
 
@@ -95,38 +86,55 @@
 
 ---
 
+## 💬 FEATURED PROJECT
+
+### **⚡ Real-Time Chat App – Kotlin + Jetpack Compose + Firebase**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Building-success?style=for-the-badge"/>
+</p>
+
+```yaml
+features:
+  - Firebase Authentication
+  - Real-time Messaging (Firestore)
+  - Profile & User Management
+  - MVVM Architecture
+  - Material 3 UI
+tech_stack:
+  - Kotlin, Jetpack Compose, Firebase
+```
+
+---
+
+## 🟣 PREMIUM 3D BUTTON SECTION
 <div align="center">
 
+<a href="https://github.com/dattabodkhe" target="_blank">
+<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-3D-blue?style=for-the-badge"/>
+</a>
 
+<a href="https://github.com/dattabodkhe?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/📂%20View%20Projects-3D-purple?style=for-the-badge"/>
+</a>
 
-**Real-Time Chat App using Kotlin + Jetpack Compose + Firebase**
-<!-- Performance Dashboard -->
-<div align="center">
-
-
-
-
-**⚡ SYSTEM STATUS: ONLINE AND CODING NON-STOP ⚡**
-**🚀 BUILDING PROJECTS | LEARNING EVERY DAY 🚀**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=3000&pause=1000&color=4A4A8C&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+to+boost+my+profile!+⭐;💡+Open+to+collaborate+on+Android+projects!+💡;🧠+Always+learning+and+innovating!+🧠)](https://github.com/dattabodkhe)
-
+<a href="mailto:dattabodkhe@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/📧%20Contact%20Me-3D-orange?style=for-the-badge"/>
+</a>
 
 </div>
 
-<!-- Footer -->
+---
+
+## ⚡ ANIMATED PROFILE TAGLINE
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&duration=2500&pause=1000&color=B84EFF&center=true&vCenter=true&width=700&lines=⭐+Building+Real+Projects+to+Become+Job-Ready!;🔥+Jetpack+Compose+Specialist+in+Making!;🚀+Learning+Daily+%7C+Growing+Daily!)](https://github.com/dattabodkhe)
 
+</div>
 
-```yaml
+---
 
-features:
-- Firebase Authentication (Login/Signup)
-- Real-time Messaging (Cloud Firestore)
-- Profile & User Management
-- MVVM Architecture
-- Clean Material Design UI
-tech_stack:
-- Kotlin, Jetpack Compose, Firebase
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true"/>
+</div>
