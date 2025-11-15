@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/animated-readme/master/wave.svg" width="100%"/>
+<img src="https://developer.android.com/static/images/social/android-developers.png"/>
 
 
 <p>
