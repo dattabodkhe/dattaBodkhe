@@ -11,9 +11,10 @@
 </p>
 
 <!-- Custom Animated Gradient Title Banner -->
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1&color=00E0FF&background=00000000&center=true&vCenter=true&width=800&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase" />
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s" />
 </p>
+
 
 </div>
 ---
@@ -125,6 +126,9 @@ Open for Internships 💼
 <h2>⭐ Featured Project</h2>
 <h3>Real-Time Chat App — Kotlin + Compose + Firebase</h3>
 <p>A modern real-time chat app built with clean architecture, Firebase Auth, Firestore messaging, and Material 3 UI.</p>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1&color=00E0FF&background=00000000&center=true&vCenter=true&width=800&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase" />
+</p>
 
 ``````yaml
 features:
