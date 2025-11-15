@@ -7,7 +7,7 @@
 
 <!-- Android Developers Image (Medium Size, Centered Above Banner) -->
 <p align="center">
-  <img src="https://developer.android.com/static/images/social/android-developers.png" width="420" />
+  <img src="https://media.licdn.com/dms/image/v2/C5116AQFd4osedACO6Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517569685148?e=2147483647&v=beta&t=3tbbL07Vk3mhetn4yioCgoIegOUMy7_eenkvWNdS53A" />
 </p>
 
 <!-- Custom Animated Gradient Title Banner -->
