@@ -1,10 +1,18 @@
+<!-- 🎨 FULL BANNER + SECTION CARDS (PORTFOLIO STYLE) README -->
 
+<!-- 🔥 FULL WIDTH PREMIUM BANNER -->
 <div align="center">
 
+<!-- 🌈 Dynamic Animated Full-Width Banner -->
 
-<img src="https://developer.android.com/static/images/social/android-developers.png"/>
+<!-- Android Developers Image (Medium Size, Centered Above Banner) -->
+<p align="center">
+  <img src="https://developer.android.com/static/images/social/android-developers.png" width="420" />
+</p>
 
+<img src="https://raw.githubusercontent.com/rodrigograca31/animated-readme/master/wave.svg" width="100%"/>
 
+<!-- Custom Animated Gradient Title Banner -->
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1&color=00E0FF&background=00000000&center=true&vCenter=true&width=800&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase" />
 </p>
