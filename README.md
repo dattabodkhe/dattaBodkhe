@@ -1,12 +1,17 @@
-\<!-- 🎨 FULL BANNER + SECTION CARDS (PORTFOLIO STYLE) README -->
+<!-- 🎨 FULL BANNER + SECTION CARDS (PORTFOLIO STYLE) README -->
 
 <!-- 🔥 FULL WIDTH PREMIUM BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=DATTA%20BODKHE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlign=50"/>
 
-### 🌟 Android Developer • Kotlin Specialist • Compose UI Builder
+<!-- 🌈 Dynamic Animated Full-Width Banner -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/animated-readme/master/wave.svg" width="100%"/>
+
+<!-- Custom Animated Gradient Title Banner -->
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1&color=00E0FF&background=00000000&center=true&vCenter=true&width=800&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase" />
+</p>
+
 </div>
-
 ---
 
 <!-- 🧩 OVERVIEW CARD -->
