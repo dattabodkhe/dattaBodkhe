@@ -82,6 +82,7 @@ Open for Internships 💼
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github&theme=light&bg=0" />
 <img src="https://developer.android.com/static/images/jetpack/compose-symbol.svg" width="48" />
 
+
 </p>
 </div>
 
