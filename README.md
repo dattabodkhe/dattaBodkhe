@@ -126,9 +126,6 @@ Open for Internships 💼
 <h3>Real-Time Chat App — Kotlin + Compose + Firebase</h3>
 <p>A modern real-time chat app built with clean architecture, Firebase Auth, Firestore messaging, and Material 3 UI.</p>
 
-</p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s" />
-</p>
 ``````yaml
 features:
   - Firebase Authentication (Login/Signup)
