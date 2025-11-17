@@ -5,19 +5,18 @@
 
 <!-- 🌈 Dynamic Animated Full-Width Banner -->
 
-<!-- Web Developer Image (Medium Size, Centered Above Banner) -->
+<!-- Android Developers Image (Medium Size, Centered Above Banner) -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D16AQGWm2g51OL1OA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1608039654070?e=2147483647&v=beta&t=LV7xeHBnNCY_0WsfCc1ASC_oS2YZs8qkzHQA2Kz8F8M" />
+  <img src="https://media.licdn.com/dms/image/v2/C5116AQFd4osedACO6Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517569685148?e=2147483647&v=beta&t=3tbbL07Vk3mhetn4yioCgoIegOUMy7_eenkvWNdS53A" />
 </p>
 
 <!-- Custom Animated Gradient Title Banner -->
   <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1&color=00E0FF&background=00000000&center=true&vCenter=true&width=900&lines=SHANTILAL+SAMRUT;Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React" />
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&pause=1&color=00E0FF&background=00000000&center=true&vCenter=true&width=800&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase" />
+
 
 </div>
 
----
 
 <!-- 🧩 OVERVIEW CARD -->
 <div align="center">
@@ -27,7 +26,7 @@
 
 <h2>📌 Professional Overview</h2>
 <p>
-A passionate and dedicated **Web Developer** learning to build modern, responsive, and user–friendly websites using **HTML**, **CSS**, **JavaScript**, and **React**. Focused on mastering fundamentals and becoming job-ready through clean UI and real-world practice.
+A passionate and ambitious **Android Developer** committed to building smooth, fast, and modern Android apps using **Kotlin**, **Jetpack Compose**, and **Firebase**. Currently focused on becoming job-ready through real projects and strong fundamentals.
 </p>
 </td>
 </tr>
@@ -44,9 +43,9 @@ A passionate and dedicated **Web Developer** learning to build modern, responsiv
 
 <h3>👤 Identity</h3>
 <div>
-<b>Name:</b> Shantilal Samrut<br>
-<b>Role:</b> Web Developer<br>
-<b>Education:</b> Student<br>
+<b>Name:</b> Datta Bodkhe<br>
+<b>Role:</b> Android Developer<br>
+<b>Education:</b> B.C.S<br>
 <b>Location:</b> Maharashtra 🇮🇳
 </div>
 
@@ -55,8 +54,8 @@ A passionate and dedicated **Web Developer** learning to build modern, responsiv
 
 <h3>⚙️ Expertise</h3>
 <div>
-HTML · CSS · JavaScript<br>
-React · Responsive UI · Git
+Kotlin · Compose · Firebase<br>
+Room · Hilt · Clean Architecture
 </div>
 
 </td>
@@ -64,9 +63,9 @@ React · Responsive UI · Git
 
 <h3>🟢 Status</h3>
 <div>
+Building Projects 🚀<br>
 Learning Daily 🔥<br>
-Building Skills 🚀<br>
-Projects Coming Soon 💼
+Open for Internships 💼
 </div>
 
 </td>
@@ -80,7 +79,7 @@ Projects Coming Soon 💼
 <div align="center">
 <h2>🛠️ Technology Stack</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,sqlite,git,github"/>
 </p>
 </div>
 
@@ -96,11 +95,11 @@ Projects Coming Soon 💼
 
 | Category | Tools |
 |---------|--------|
-| Languages | HTML, CSS, JS |
-| Libraries | React (learning) |
-| Styling | CSS Flex · Grid |
-| UI | Responsive Design |
-| Tools | Git, GitHub |
+| Languages | Kotlin, Java |
+| UI | Jetpack Compose |
+| Databases | Firebase, Room |
+| Architecture | MVVM, Clean |
+| Networking | Retrofit, Coroutines |
 
 </td>
 <td width="50%" align="center">
@@ -110,9 +109,9 @@ Projects Coming Soon 💼
 | Category | Skills |
 |---------|--------|
 | Soft Skills | Teamwork, Problem Solving |
-| Tools | VS Code, Chrome DevTools |
-| UI | Clean & Simple Layouts |
-| Other | Debugging, API Basics |
+| Tools | Git, GitHub, Android Studio |
+| UI | Material 3, Responsive UI |
+| Other | Debugging, API Integration |
 
 </td>
 </tr>
@@ -124,17 +123,18 @@ Projects Coming Soon 💼
 <!-- ⭐ FEATURED PROJECT CARD -->
 <div align="center" style="padding: 20px;">
 <h2>⭐ Featured Project</h2>
-<h3>Beginner Portfolio Website — HTML + CSS + JS</h3>
-<p>A clean, modern responsive portfolio website made as a starting point for future projects.</p>
+<h3>Real-Time Chat App — Kotlin + Compose + Firebase</h3>
+<p>A modern real-time chat app built with clean architecture, Firebase Auth, Firestore messaging, and Material 3 UI.</p>
 
-```yaml
+``````yaml
 features:
-  - Responsive Layout
-  - Modern UI Cards
-  - Clean Sections
-  - Simple Navigation Bar
-
+  - Firebase Authentication (Login/Signup)
+  - Real-time Messaging (Cloud Firestore)
+  - Profile & User Management
+  - MVVM Architecture
+  - Clean Material Design UI
 tech_stack:
-  - HTML
-  - CSS
-  - JavaScript
+  - Kotlin
+  - Jetpack Compose
+  - Firebase
+```
