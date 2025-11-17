@@ -79,7 +79,8 @@ Open for Internships 💼
 <div align="center">
 <h2>🛠️ Technology Stack</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,compose,firebase,git,github&theme=light&titles=true&perline=3" />
+
 </p>
 </div>
 
