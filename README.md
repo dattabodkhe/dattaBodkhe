@@ -26,7 +26,7 @@
 
 <h2>📌 Professional Overview</h2>
 <p>
-A passionate and ambitious **Android Developer** committed to building smooth, fast, and modern Android apps using **Kotlin**, **Jetpack Compose**, and **Firebase**. Currently focused on becoming job-ready through real projects and strong fundamentals.
+A passionate and ambitious Android Developer committed to building smooth, fast, and modern Android apps using Kotlin, Jetpack Compose, and **Firebase**. Currently focused on becoming job-ready through real projects and strong fundamentals.
 </p>
 </td>
 </tr>
