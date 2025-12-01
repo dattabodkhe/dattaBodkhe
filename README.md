@@ -98,7 +98,7 @@ Open for Internships 💼
 
 | Category | Tools |
 |---------|--------|
-| Languages | Kotlin, Java |
+| Languages | Kotlin |
 | UI | Jetpack Compose |
 | Databases | Firebase, Room |
 | Architecture | MVVM, Clean |
