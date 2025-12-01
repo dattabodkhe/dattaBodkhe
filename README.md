@@ -80,7 +80,7 @@ Open for Internships 💼
 <h2>🛠️ Technology Stack</h2>
 <p>
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github&theme=light&bg=0" />
-<img src="https://developer.android.com/static/images/jetpack/compose-symbol.svg" width="48" />
+<img src="https://developer.android.com/static/images/jetpack/" width="48" />
 
 
 </p>
