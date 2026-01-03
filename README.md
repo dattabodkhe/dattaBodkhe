@@ -117,19 +117,4 @@ Open for Internships & Entry-Level Roles
 
 ---
 
-<!-- ⭐ FEATURED PROJECT -->
-<div align="center" style="padding: 24px;">
-<h2>⭐ Featured Project</h2>
 
-<h3>📱 Real-Time Chat Application</h3>
-
-<p>
-A modern Android chat application built using <b>Kotlin, Jetpack Compose, and Firebase</b>.  
-Features real-time messaging, authentication, clean MVVM architecture, and Material 3 based UI.
-</p>
-
-<b>Key Highlights:</b><br>
-Firebase Authentication · Firestore Realtime Messaging ·  
-Jetpack Compose UI · Clean Architecture · Scalable Design
-
-</div>
