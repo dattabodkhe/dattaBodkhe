@@ -10,7 +10,7 @@
 
 <!-- ⌨️ Animated Title -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3500&pause=800&color=00E0FF&center=true&vCenter=true&width=850&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;Clean+Architecture+%7C+Modern+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3500&pause=800&color=00E0FF&center=true&vCenter=true&width=850&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+%7C+Firebase;Clean+Architecture+%7C+Modern+UI" />
 </p>
 
 </div>
