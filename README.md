@@ -1,114 +1,114 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5116AQFd4osedACO6Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517569685148?e=2147483647&v=beta&t=3tbbL07Vk3mhetn4yioCgoIegOUMy7_eenkvWNdS53A" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3500&pause=800&color=00E0FF&center=true&vCenter=true&width=850&lines=Datta+Bodkhe;Android+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Firebase;Building+Modern+Android+Apps" />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3500&pause=800&color=00E0FF&center=true&vCenter=true&width=850&lines=DATTA+BODKHE;Android+Developer;Kotlin+%7C+Jetpack+%7C+Firebase;Clean+Architecture+%7C+Modern+UI" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </div>
 
 ---
 
+## 👋 About Me
+
+🎯 Android Developer focused on building **scalable, modern, and performance-optimized Android applications** using:
+
+- **Kotlin**
+- **Jetpack Compose**
+- **MVVM & Clean Architecture**
+- **Firebase & Room**
+- **REST APIs & Coroutines**
+
+Currently building real-world production-level projects and strengthening architecture skills daily.
+
+---
+
+## 🧠 Core Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Language | Kotlin |
+| 🎨 UI | Jetpack Compose, Material 3 |
+| 🏗 Architecture | MVVM, Clean Architecture |
+| 🔥 Backend | Firebase (Auth, Firestore) |
+| 🗄 Database | Room |
+| 🌐 Networking | Retrofit, Coroutines |
+| 🛠 Tools | Git, GitHub, Android Studio |
+
+---
+
+## 🚀 Current Focus
+
+- Building production-ready Android apps  
+- Improving Clean Architecture implementation  
+- Advanced State Management in Compose  
+- Performance optimization & scalable design  
+
+---
+
+## 🛠 Tech Stack
+
 <div align="center">
-<table width="100%">
-<tr>
-<td align="center" style="padding:24px;">
 
-<h2>📌 Professional Overview</h2>
-<p>
-Android Developer focused on building <b>modern, scalable, and performance-oriented Android applications</b> using 
-<b>Kotlin, Jetpack Compose, MVVM, and Firebase</b>. 
-Currently strengthening real-world skills through hands-on projects and production-level architecture.
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github&theme=light" height="60"/>
 
-</td>
-</tr>
-</table>
+<img src="https://developer.android.com/static/images/jetpack/compose.svg" width="60"/>
+
 </div>
 
 ---
 
+## 📌 Development Strengths
+
+✔ Modern UI Design (Material 3)  
+✔ Clean Code & Structured Architecture  
+✔ Firebase Integration  
+✔ Real-Time Features  
+✔ State Handling & Debugging  
+✔ Git Version Control  
+
+---
+
+## 📍 Profile
+
+- 🎓 **Education:** B.C.S  
+- 📍 **Location:** Maharashtra, India 🇮🇳  
+- 💼 **Open To:** Internships & Entry-Level Android Roles  
+- 🚀 **Goal:** Become a Production-Level Android Engineer  
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-<table width="100%">
-<tr>
 
-<td width="33%" align="center">
-<h3>👤 Profile</h3>
-<b>Name:</b> Datta Bodkhe<br>
-<b>Role:</b> Android Developer<br>
-<b>Education:</b> B.C.S<br>
-<b>Location:</b> Maharashtra, India 🇮🇳
-</td>
+<img src="https://raw.githubusercontent.com/dattabodkhe/dattabodkhe/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<td width="33%" align="center">
-<h3>⚙️ Core Expertise</h3>
-Kotlin · Jetpack Compose<br>
-Firebase · Room · Hilt<br>
-MVVM · Clean Architecture
-</td>
-
-<td width="33%" align="center">
-<h3>🚀 Current Status</h3>
-Building Real Projects<br>
-Daily Skill Improvement<br>
-Open for Internships & Entry-Level Roles
-</td>
-
-</tr>
-</table>
 </div>
 
 ---
 
-<div align="center">
-<h2>🛠 Technology Stack</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,git,github&theme=light" />
-  <img src="https://developer.android.com/static/images/jetpack/compose.svg" width="48" />
-</p>
-</div>
+## 🤝 Let's Connect
+
+If you're looking for a passionate Android developer who focuses on:
+
+- Clean Architecture
+- Modern Android UI
+- Real-world project experience
+- Long-term growth mindset
+
+Feel free to connect.
 
 ---
 
 <div align="center">
-<table width="100%">
-<tr>
 
-<td width="50%" align="center">
-<h3>💻 Technical Skills</h3>
+⭐ Always learning.  
+🚀 Always building.  
+🔥 Always improving.
 
-| Area | Tools / Tech |
-|-----|-------------|
-| Language | Kotlin |
-| UI | Jetpack Compose |
-| Architecture | MVVM, Clean |
-| Database | Firebase, Room |
-| Networking | Retrofit, Coroutines |
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧩 Development Strengths</h3>
-
-| Area | Skills |
-|-----|-------|
-| UI/UX | Material 3, Responsive UI |
-| Tools | Git, GitHub, Android Studio |
-| Debugging | Logcat, State handling |
-| Integration | REST APIs, Firebase |
-
-</td>
-
-</tr>
-</table>
-</div>
-
----
-
-<div align="center">
-  <h3>🐍 Activity Map</h3>
-  <img src="https://raw.githubusercontent.com/dattabodkhe/dattabodkhe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
